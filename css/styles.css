@@ -12,3 +12,8 @@ body {
 	text-align: center;
 	color: #100763;
 }
+.copyright {
+	font-size: 14px;
+	text-align: center;
+	font-style: italic;
+}
