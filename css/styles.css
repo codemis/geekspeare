@@ -1,12 +1,30 @@
 body {
 	background-image: url('../img/textured_paper.png');
+	padding: 0;
+	margin: 0;
+}
+#main_bar {
+	width: 96%;
+	padding: 0% 2%;
+	background-color: #100763;
+	height: 50px;
+}
+.logo {
+	color: #ffffff;
+	font-size: 120%;
+	font-style: italic;
+}
+.tagline {
+	color: #ffffff;
+	font-size: 80%;
+	font-style: italic;
 }
 #main_body {
 	width: 80%;
 	margin: 0% 5%;
 	padding: 5%;
 	background-color: #ffffff;
-	font-size: 28px;
+	font-size: 140%;
 	font-style: italic;
 	font-weight: bold;
 	text-align: center;
@@ -14,6 +32,26 @@ body {
 }
 .copyright {
 	font-size: 14px;
-	text-align: center;
 	font-style: italic;
+	text-align: center;
+}
+.box50 {
+	float: left;
+	width: 50%;
+}
+.last {
+	clear: right;
+}
+.txt_right {
+	text-align: right;
+}
+img.refresh_icon {
+	height: 32px;
+	margin-top: 9px;
+	width: 32px;
+}
+img.loading_icon {
+	height: 32px;
+	margin-top: 9px;
+	width: 32px;
 }
