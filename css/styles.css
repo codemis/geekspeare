@@ -1,0 +1,14 @@
+body {
+	background-image: url('../img/textured_paper.png');
+}
+#main_body {
+	width: 80%;
+	margin: 0% 5%;
+	padding: 5%;
+	background-color: #ffffff;
+	font-size: 28px;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
+	color: #100763;
+}
