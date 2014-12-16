@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.geekspeare.johnathanpulos"
+        version   = "0.0.4">
+    <name>GeekSpeare</name>
+    <description>Get a random Geeky Quote. </description>
+    <author href="https://missionaldigerati.org" email="johnathan@missionaldigerati.org">Johnathan Pulos</author>
+    <icon src="icon.png" />
+</widget>
